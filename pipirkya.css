@@ -1,7 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&display=swap");
 
 :root {
-  --background: url("https://so1ta.github.io/Images/USP.jpg");
   --font:                       "Inter";
   --transparencyalpha:          0.7;
   --transparencycolor:			    0,0,0;
